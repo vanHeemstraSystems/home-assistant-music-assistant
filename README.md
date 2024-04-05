@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+home-assistant-music-assistant
+# Home Assistant - Music Assistant
 
-Based on "ABC" at https://www.abc.com/
+Based on "MUSIC ASSISTANT - The Ultimate Music Streaming Service ..." at https://www.youtube.com/watch?v=znBkHcqKzCs
+
+Based on "Music Assistant" at https://github.com/music-assistant
 
 ## 100 - Introduction
 
